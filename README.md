@@ -1,5 +1,4 @@
 # ALT:V Speedometer
-## A script that allows the player to crawl
 
 
 
